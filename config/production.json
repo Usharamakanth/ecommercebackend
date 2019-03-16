@@ -1,0 +1,8 @@
+{
+    "app":{
+        "name": "Ecommerce backend app - production"
+    },
+    "mail":{
+        "host": "production host server mail"
+    }
+}

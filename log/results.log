@@ -1,0 +1,8 @@
+2019-03-12 13:00:21 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-12 13:02:23 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-12 13:03:52 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-12 13:04:38 error [error.js]: Products is not defined
+2019-03-12 13:06:44 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-12 13:27:08 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-13 14:11:55 error [index.js]: unhandledRejection occured :Asynchronous error occured 
+2019-03-13 14:24:47 error [error.js]: jwt is not defined

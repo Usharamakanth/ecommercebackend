@@ -1,0 +1,9 @@
+{
+    "app": {
+        "jwtPrivateKey" : "ec_jwt_privatekey"
+         },
+    "mail":
+    {
+        "password":"ecb_mail_server_pwd"
+    }
+}
