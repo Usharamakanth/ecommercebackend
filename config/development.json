@@ -5,5 +5,8 @@
     },
     "mail":{
         "host": "development host server mail"
+    },
+    "db":{
+        "host": "mongodb://localhost/ecommercebackend"
     }
 }
