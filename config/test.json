@@ -1,0 +1,12 @@
+{
+    "app":{
+        "name": "Ecommerce backend app - development",
+        "jwtPrivateKey" : "ec_jwt_privatekey"
+    },
+    "mail":{
+        "host": "development host server mail"
+    },
+    "db":{
+        "host": "mongodb://localhost/ecommercebackend_test"
+    }
+}
