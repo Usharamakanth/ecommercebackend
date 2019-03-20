@@ -23,7 +23,7 @@ const authrouter = require('./routes/auth');
 
 
 // connecting to mongodb
-mongoose.connect("mongodb://localhost/ecommercebackend")
+mongoose.connect(config.get('db.host'))
         .then(() => console.log("Succefully connected to mongodb...."))
         .catch((err)=> console.log("Failed to connect to db....", err));    
 
@@ -72,4 +72,5 @@ console.log("mail server host:" ,config.get("mail.host"));
 app.use(error);
 
 const port = process.env.ECBPORT || 3000;
-app.listen(port, () => console.log(`Listening on port ${port}...`));
+const server = app.listen(port, () => console.log(`Listening on port ${port}...`));
+module.exports = server;
