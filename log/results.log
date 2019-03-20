@@ -6,3 +6,7 @@
 2019-03-12 13:27:08 error [index.js]: unhandledRejection occured :Asynchronous error occured 
 2019-03-13 14:11:55 error [index.js]: unhandledRejection occured :Asynchronous error occured 
 2019-03-13 14:24:47 error [error.js]: jwt is not defined
+2019-03-20 12:17:32 error [error.js]: Order is not a constructor
+2019-03-20 12:44:12 error [error.js]: Order.orders is not a constructor
+2019-03-20 12:44:37 error [error.js]: Order.orders is not a constructor
+2019-03-20 12:45:27 error [error.js]: Order validation failed: user: Cast to ObjectID failed for value "roopa" at path "user", product: Cast to ObjectID failed for value "Lipstick" at path "product"
